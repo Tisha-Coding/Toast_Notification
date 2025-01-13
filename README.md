@@ -1,2 +1,2 @@
-# Toasr_Notification
+# Toast_Notification
 Toast Notifications JS mini project .
